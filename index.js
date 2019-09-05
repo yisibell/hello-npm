@@ -10,3 +10,5 @@ module.exports = function ( str ){
 // }
 
 // window.customElements.define( 'h-script' , hScript )
+
+// npm version from-git v
