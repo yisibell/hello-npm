@@ -11,4 +11,5 @@ module.exports = function ( str ){
 
 // window.customElements.define( 'h-script' , hScript )
 
-// npm version from-git v
+// npm version from-git v1.1.2
+// npm version from-git v2.0.0
