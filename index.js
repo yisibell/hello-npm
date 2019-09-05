@@ -1,3 +1,4 @@
+// log
 module.exports = function ( str ){
-  console.log( 'hello' + str )
+  console.log( 'hello' + str + '!' )
 }
