@@ -1,6 +1,6 @@
 {
   "name": "hello-npm-test",
-  "version": "1.1.0",
+  "version": "1.1.1-0",
   "description": "a node test module which will be published to npm.",
   "main": "index.js",
   "scripts": {
