@@ -15,3 +15,4 @@ module.exports = function ( str ){
 // npm version prerelease --preid=alpha v2.0.3-alpha.0
 // npm version patch v2.0.3
 // npm version minor v2.1.0
+// npm version major v3.0.0
