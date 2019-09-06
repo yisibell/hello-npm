@@ -1,16 +1,11 @@
 // log
 module.exports = function ( str ){
-  const version = '1.1.0'
+  const version = '2.0.1'
   console.log( 'hello' + str + '!' )
 }
 
 
-// class hScript extends HTMLElement {
-//   // ...
-// }
-
-// window.customElements.define( 'h-script' , hScript )
-
 // npm version from-git v1.1.2
-// npm version from-git v2.0.0
 // npm version from-git v1.1.2-alpha.0
+// npm version from-git v2.0.0
+// npm version from-git v2.0.1
