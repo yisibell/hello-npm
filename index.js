@@ -9,4 +9,4 @@ module.exports = function ( str ){
 // npm version from-git v1.1.2-alpha.0
 // npm version from-git v2.0.0
 // npm version from-git v2.0.1
-// npm version prepatch
+// npm version prepatch v2.0.2-0
